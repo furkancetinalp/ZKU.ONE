@@ -6,6 +6,9 @@
 
 
 
+
+
+
 ### BALLOT CONTRACT
 
 ![Ekran Görüntüsü (145)](https://user-images.githubusercontent.com/99509540/165187608-463728b7-9f41-4dfd-8af8-a5474328e437.png)
@@ -19,5 +22,5 @@
 
 ```sh 
 THE PROGRAM RESTRICTS SMART CONTRACT AFTER 5 MINUTES:
-
+```
 ![Ekran Görüntüsü (156)](https://user-images.githubusercontent.com/99509540/165187665-0dcefc98-2d92-4d4a-9cff-6964c21bcc89.png)
